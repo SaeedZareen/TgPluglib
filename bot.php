@@ -36,7 +36,7 @@ $plugins = [
   "ping",
   "messages",
   'feedback',
-  'plugins'
+  'pluginslist'
 ];
 $n = 0;
 //--------
