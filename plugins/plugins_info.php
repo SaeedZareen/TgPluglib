@@ -21,7 +21,7 @@ if (strpos($textmessage,"/more") !== false) {
   $plugin_name = str_replace(" ","",$plugin_name);
 
   if ($plugin_name == "") {
-    SendMessage($chat_id,"Wrong Name ⚠️\nSend `/more [plugin name]` for more info.");
+    SendMessage($chat_id,"Empty Name ⚠️\nSend `/more [plugin name]` for more info.");
   }
   else {
     $plugin_path = "plugins/$plugin_name.php";
