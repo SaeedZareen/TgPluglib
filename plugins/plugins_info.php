@@ -30,7 +30,7 @@ if (strpos($textmessage,"/more") !== false) {
     SendMessage($chat_id,"*$plugin_name* :
     `Name` : *{$plugin_info['name']}*
     `Description` : *{$plugin_info['description']}*
-    `Plugin Developer` : {$plugin_info['developer']}
+    `Plugin Developer` : *{$plugin_info['developer']}*
 ");
 }
 else {
