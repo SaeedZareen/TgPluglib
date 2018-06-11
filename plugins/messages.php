@@ -5,17 +5,17 @@ $plugin_info = [
   "developer"=>"@EMlNEM"
 ];
 $message_list = [
-"/start"=>"Hi dear $name
-Welcome to TgPluglib Example Bot !
-TgPluglib is a Telegram Bot Plugin library can help you to develop your bots with writing plugins 😄
-You can use /help tp see bot commands",
+"/start"=>"Hi Dear $name
+Welcome To TgPluglib Example Bot !
+TgPluglib is a Telegram Bot Plugin Library can Help You To Develope Your Projects With Plugins
+You can Use /help To See The Bot Commands .",
 
 "/help"=>"
-/start : *start the bot*
-/help : *get the bot commands*
-/plugins : *get the actived plugins name*
-/developer : *get the TgPluglib developer information*
-/feedback [message] : *send your feedback to us*
+`/start` : *start the bot*
+`/help` : *get the bot commands*
+`/plugins` : *get the actived plugins name*
+`/developer` : *get the TgPluglib developer information*
+`/feedback [message]` : *send your feedback to us*
 ",
 
 "command"=>"answer ;)",
