@@ -7,7 +7,7 @@
 - [TgPluglib](#TgPluglib)
 - [Installation](#installation)
 - [Support and development](#support-and-development)
-- [Special thanks to:](#special-thanks-to)
+- [Special thanks](#special-thanks-to)
 
 
 # Installation
