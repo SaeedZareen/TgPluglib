@@ -27,9 +27,12 @@ DIR = Your Bot Directory
 ```
 
 # Support and development
-Developer : [Saeed Zareen](httpd://t.me/EMlNEM)
-Support Bot : [Edge_Bot](httpd://t.me/Edge_Bot)
-CHannel : [EdgeTeam](httpd://t.me/Edgeteam)
+Developer : 
+[Saeed Zareen](httpd://t.me/EMlNEM)
+Support Bot : 
+[Edge_Bot](httpd://t.me/Edge_Bot)
+Channel : 
+[EdgeTeam](httpd://t.me/Edgeteam)
 
 # Special thanks to
 [M3HR4B](https://t.me/OneProgrammer)
