@@ -1,7 +1,7 @@
 <?php
-$plugin_info = [
+$plugin_info  = [
   "name"=>"Plugins info",
-  "description"=>"This plugin can send plugin list and plugins information",
+  "description"=>"This plugin can send plugins list and plugins information",
   "developer"=>"@EMlNEM"
 ];
 if ($textmessage == "/plugins") {
