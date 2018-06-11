@@ -31,7 +31,7 @@ $name = @$update->message->from->first_name;
 $username = @$update->message->from->username;
 $textmessage = isset($update->message->text)?$update->message->text:'';
 $reply = isset($update->message->reply_to_message->forward_from->id)?$update->message->reply_to_message->forward_from->id:'';
-$admins  = [**ADMIN1**,**ADMIN2**];
+$admins  = [**ADMIN1**,0];
 $plugins = [
   "ping",
   "messages",
