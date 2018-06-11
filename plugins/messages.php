@@ -26,7 +26,6 @@ TgPluglib - Telegram Plugin library
 👤 [Developer](https://t.me/emlnem)
 🖥 [Support Bot](https://t.me/edge_Bot)
 🔈 [Channel](https://t.me/edgeteam)
-
 "
 ];
 SendMessage($chat_id,@$message_list[$textmessage]);
