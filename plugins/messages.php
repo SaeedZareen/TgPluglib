@@ -13,7 +13,7 @@ You can Use /help To See The Bot Commands .",
 "/help"=>"
 `/start` : *start the bot*
 `/help` : *get the bot commands*
-`/plugins` : *get the actived plugins name*
+`/plugins` : *get the plugins name*
 `/developer` : *get the TgPluglib developer information*
 `/feedback [message]` : *send your feedback to us*
 ",
