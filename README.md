@@ -1,7 +1,9 @@
 # [TgPluglib](https://telegram.me/TgPluglib_Bot)
+
 **A Telegram Library For PHP Bots with PluginMode**
 
 # Table of Contents
+
 - [TgPluglib](#TgPluglib)
 - [Installation](#installation)
 - [Support and development](#support-and-development)
@@ -27,12 +29,16 @@ DIR = Your Bot Directory
 ```
 
 # Support and development
+
 Developer : 
 [Saeed Zareen](https://t.me/EMlNEM)
+
 Support Bot : 
 [Edge_Bot](https://t.me/Edge_Bot)
+
 Channel : 
 [EdgeTeam](https://t.me/Edgeteam)
 
 # Special thanks to
+
 [M3HR4B](https://t.me/OneProgrammer)
