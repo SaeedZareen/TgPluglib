@@ -7,7 +7,6 @@
 - [TgPluglib](#TgPluglib)
 - [Installation](#installation)
 - [Support and development](#support-and-development)
-- [Special thanks](#special-thanks-to)
 
 
 # Installation
@@ -33,12 +32,5 @@ DIR = Your Bot Directory
 Developer : 
 [Saeed Zareen](https://t.me/EMlNEM)
 
-Support Bot : 
-[Edge_Bot](https://t.me/Edge_Bot)
-
 Channel : 
 [EdgeTeam](https://t.me/Edgeteam)
-
-# Special thanks to
-
-[M3HR4B](https://t.me/OneProgrammer)
