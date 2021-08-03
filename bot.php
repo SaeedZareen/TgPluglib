@@ -6,7 +6,7 @@ Channel : @EdgeTeam
 Support Bot : @Edge_Bot
 #########################
 */
-define('API_KEY','**TOKEN**');
+define('API_KEY','1866364982:AAFc9nGeVctOGqUtnikHPeck3PY1ZJoXhQQ');
 //----######------
 function makereq($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
