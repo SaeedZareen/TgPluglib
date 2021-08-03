@@ -6,7 +6,7 @@ Channel : @EdgeTeam
 Support Bot : @Edge_Bot
 #########################
 */
-define('API_KEY','1866364982:AAFc9nGeVctOGqUtnikHPeck3PY1ZJoXhQQ');
+define('API_KEY','**TOKEN**');
 //----######------
 function makereq($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
@@ -31,7 +31,7 @@ $name = @$update->message->from->first_name;
 $username = @$update->message->from->username;
 $textmessage = isset($update->message->text)?$update->message->text:'';
 $reply = isset($update->message->reply_to_message->forward_from->id)?$update->message->reply_to_message->forward_from->id:'';
-$admins  = [1729555869,0];
+$admins  = [**ADMIN1**,0];
 $plugins = [
   "ping",
   "messages",
